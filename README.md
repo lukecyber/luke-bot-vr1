@@ -33,11 +33,11 @@ Project created by <a href="https://github.com/sunaif-adkar">sunaif-adkar</a> to
 Click WA logo to Join Support Group 👇
     <br>
 <br>
-  [![join](https://github.com/Alien-alfa/PublicBot/blob/main/wlogo.svg.png)](https://chat.whatsapp.com/BT0nNPBthyFI1ejoSr0i7W)
+  [![join](https://github.com/Alien-alfa/PublicBot/blob/main/wlogo.svg.png)](https://chat.whatsapp.com/GS6WZFCyrl60pszygT9wPS)
   <div align="center">
        
 ## BGM SUPPORTS 🎼
-  VKD48 & CHEGUTHAN
+  SARASU & KOKACHI
     
 ## Setup
 <div align="center">
@@ -61,8 +61,8 @@ GET QR
 $ apt update
 $ apt install nodejs --fix-missing
 $ pkg install git
-$ git clone https://github.com/Sunaifnfc/JulieMwol.git
-$ cd JulieMwol
+$ git clone https://github.com/georgyLM10/luke-bot-vr1.git
+$ cd luke-bot-vr1
 $ chmod +x *
 $ npm install @adiwajshing/baileys
 $ npm install chalk
@@ -71,8 +71,8 @@ $ node qr.js
       
 ```js
 SETUP
-$ git clone https://github.com/Sunaifnfc/JulieMwol.git
-$ cd JulieMwol
+$ git clone https://github.com/georgyLM10/luke-bot-vr1.git
+$ cd luke-bot-vr1
 $ chmod +x *
 $ npm i
 $ node qr.js
@@ -92,7 +92,7 @@ By establishing the Asena, you are deemed to have accepted these responsibilitie
 ## Developers
   <div align="center">
     
-  [![sunaif-adkar](https://github.com/sunaif-adkar.png?size=100)](https://github.com/sunaif-adkar) |  [![S46@$u.#404](https://telegra.ph/file/df002f5c5f138a17eb2a4.jpg?size=100)](https://wa.me/message/N2MKXYOCTXS6K1) | [![SaMods](https://telegra.ph/file/73d6e190b1f18e12a87f8.png?size=100)](https://wa.me/message/N2MKXYOCTXS6K1) 
+  [![luke](https://github.com/georgyLM10.png?size=100)](https://github.com/sunaif-adkar) |  [![S46@$u.#404](https://telegra.ph/file/df002f5c5f138a17eb2a4.jpg?size=100)](https://wa.me/message/N2MKXYOCTXS6K1) | [![SaMods](https://telegra.ph/file/73d6e190b1f18e12a87f8.png?size=100)](https://wa.me/message/N2MKXYOCTXS6K1) 
 ----|----|----
 [sunaif-adkar](https://github.com/sunaif-adkar)  | [S46@$u.#404](https://wa.me/message/N2MKXYOCTXS6K1) | [SaMods](https://wa.me/message/N2MKXYOCTXS6K1)
 CREATER AND FOUNDER | Modifiying  as   public | Bug Fixes, Modules
@@ -103,7 +103,7 @@ CREATER AND FOUNDER | Modifiying  as   public | Bug Fixes, Modules
 ## License
 This project is protected by `GNU General Public Licence v3.0` license.
 
-## BUY ME A COFFEE :
+## BUY Me A COFFEE :
 
 <p align="center">
 <a href="https://www.paypal.me/sunaifadkar"><img title="sunaif-adkar" src="https://camo.githubusercontent.com/ae8af018f80649f3d379eb23dbf59acceaffa24e/68747470733a2f2f6c69626572617061792e636f6d2f6173736574732f776964676574732f646f6e6174652e737667"></a>
