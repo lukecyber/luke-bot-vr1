@@ -37,7 +37,7 @@ Click WA logo to Join Support Group 👇
   <div align="center">
        
 ## BGM SUPPORTS 🎼
-  SARASU & KOKACHI
+  SARASU & KOKACHI #EVERY THING IS TEMPORARY
     
 ## Setup
 <div align="center">
