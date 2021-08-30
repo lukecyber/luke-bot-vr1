@@ -36,8 +36,8 @@ Click WA logo to Join Support Group 👇
   [![join](https://github.com/Alien-alfa/PublicBot/blob/main/wlogo.svg.png)](https://chat.whatsapp.com/GS6WZFCyrl60pszygT9wPS)
   <div align="center">
        
-## BGM SUPPORTS 🎼
-  SARASU & KOKACHI #EVERY THING IS TEMPORARY
+## SPEACIAL THANKS TO MY SUPPORTERS 🥰🫂
+  KAILAS,ACHU & SUNAIF 
     
 ## Setup
 <div align="center">
