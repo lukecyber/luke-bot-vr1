@@ -36,7 +36,7 @@ Click WA logo to Join Support Group 👇
   [![join](https://github.com/Alien-alfa/PublicBot/blob/main/wlogo.svg.png)](https://chat.whatsapp.com/GS6WZFCyrl60pszygT9wPS)
   <div align="center">
        
-## SPEACIAL THANKS TO MY SUPPORTERS 🥰🫂
+## SPEACIAL THANKS TO MY SUPPORTERS ❤️
   KAILAS,ACHU & SUNAIF 
     
 ## Setup
