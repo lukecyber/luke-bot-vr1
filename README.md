@@ -37,7 +37,7 @@ Click WA logo to Join Support Group 👇
   <div align="center">
        
 ## SPEACIAL THANKS TO MY SUPPORTERS ❤️
-  KAILAS,ACHU & SUNAIF 
+  ACHU,KOKACHI & SUNAIF 
     
 ## Setup
 <div align="center">
